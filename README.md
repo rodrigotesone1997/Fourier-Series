@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenido 👋</h1>
 <p>
-  <a href="ss" target="_blank">
+  <a href="LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/rodrigotesone97" target="_blank">
@@ -29,7 +29,7 @@ git clone https://github.com/rodrigotesone1997/Fourier-Series.git
 Python 3.8.5
 ```
 
-## 🪐📓 Version Jupyter Notebook
+## 🪐📓 Versión Jupyter Notebook
 
 jupyter core     : 4.7.1</br>
 jupyter-notebook : 6.4.0</br>
